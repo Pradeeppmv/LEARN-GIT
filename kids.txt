@@ -1,0 +1,15 @@
+Harvik Rishvik Manvitha and Svamin
+
+Harvik- Government Heart Surgeon
+Rishvik- Aerospace Technology
+Manvitha- Electrical engineer with Law
+Svamin- Architectural engineer
+
+<<<<<<< HEAD
+Every one is going to co-ordinate with each other and will be at peace and harmony through out the life with lifespan
+more than 75 years 
+ 
+=======
+
+Every one is going to co-ordinate with each other and will be at peace and harmony through out the life with lifespan more than 75 years 
+>>>>>>> dev
